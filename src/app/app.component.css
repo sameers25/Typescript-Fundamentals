@@ -1,0 +1,11 @@
+
+  .panel-heading{
+      background: #d1d1d1!important
+  }
+  .panel-body{
+      border: solid 1pc #c1c1c1;
+  }
+  
+  pre code {
+    white-space: pre-line !important;
+}
