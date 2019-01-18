@@ -15,4 +15,4 @@ Once you application is running on the browser open the console log to check for
 
 ## E-Learning Document
 
-Click on the link to view the E-Learning Document for Typescript Fundamentals : /sameers25/Typescript-Fundamentals/blob/master/Typescript-Fundamentals%20E-Learning%20Document.doc?raw=true
+Click on the link to view the E-Learning Document for Typescript Fundamentals : https://github.com/sameers25/Typescript-Fundamentals/blob/master/Typescript-Fundamentals%20E-Learning%20Document.doc?raw=true
