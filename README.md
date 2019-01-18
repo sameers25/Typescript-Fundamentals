@@ -11,4 +11,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Once you application is running on the browser open the console log to check for the output each lessons in app.component.ts file.
 
 
-<img src="">
+<img src="https://github.com/sameers25/Typescript-Fundamentals/blob/master/Typescript.PNG">
